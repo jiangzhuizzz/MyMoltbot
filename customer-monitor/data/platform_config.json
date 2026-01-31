@@ -1,0 +1,39 @@
+{
+  "抖音": {
+    "max_per_day": 50,
+    "delay_min": 30,
+    "delay_max": 120,
+    "private_msg": true,
+    "comment": true,
+    "comment_max_per_post": 5
+  },
+  "小红书": {
+    "max_per_day": 30,
+    "delay_min": 60,
+    "delay_max": 180,
+    "private_msg": true,
+    "comment": true,
+    "comment_max_per_post": 3
+  },
+  "知乎": {
+    "max_per_day": 20,
+    "delay_min": 120,
+    "delay_max": 300,
+    "private_msg": true,
+    "comment": true,
+    "comment_max_per_answer": 5
+  },
+  "百度": {
+    "max_per_day": 10,
+    "delay_min": 300,
+    "delay_max": 600,
+    "private_msg": false,
+    "comment": true,
+    "comment_max_per_question": 3
+  },
+  "短信": {
+    "max_per_day": 100,
+    "delay_min": 5,
+    "delay_max": 10
+  }
+}
