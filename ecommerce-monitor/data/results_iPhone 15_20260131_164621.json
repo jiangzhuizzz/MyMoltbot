@@ -1,0 +1,259 @@
+{
+  "results": [
+    {
+      "platform": "拼多多",
+      "product_name": "iPhone 15 拼多多百亿补贴",
+      "original_price": 93,
+      "coupon": 63,
+      "final_price": 30,
+      "discount_rate": 67.7,
+      "url": "https://pinduoduo.com/item/789",
+      "shop": "官方旗舰店",
+      "sales": "18335+",
+      "update_time": "2026-01-31 16:46",
+      "confidence": 0.85
+    },
+    {
+      "platform": "抖音商城",
+      "product_name": "iPhone 15 抖音直播专享价",
+      "original_price": 160,
+      "coupon": 23,
+      "final_price": 137,
+      "discount_rate": 14.4,
+      "url": "https://douyin.com/item/111",
+      "shop": "品牌官方店",
+      "sales": "8589+",
+      "update_time": "2026-01-31 16:46",
+      "confidence": 0.8
+    },
+    {
+      "platform": "淘宝",
+      "product_name": "【品牌】iPhone 15 正品保障",
+      "original_price": 266,
+      "coupon": 31,
+      "final_price": 235,
+      "discount_rate": 11.7,
+      "url": "https://taobao.com/item/123",
+      "shop": "品牌官方旗舰店",
+      "sales": "7814+",
+      "update_time": "2026-01-31 16:46",
+      "confidence": 0.9
+    },
+    {
+      "platform": "小红书",
+      "product_name": "iPhone 15 小红书买手推荐",
+      "original_price": 290,
+      "coupon": 36,
+      "final_price": 254,
+      "discount_rate": 12.4,
+      "url": "https://xiaohongshu.com/item/444",
+      "shop": "买手店",
+      "sales": "1556+",
+      "update_time": "2026-01-31 16:46",
+      "confidence": 0.75
+    },
+    {
+      "platform": "唯品会",
+      "product_name": "iPhone 15 唯品会特卖",
+      "original_price": 352,
+      "coupon": 54,
+      "final_price": 298,
+      "discount_rate": 15.3,
+      "url": "https://vip.com/item/222",
+      "shop": "唯品会自营",
+      "sales": "4448+",
+      "update_time": "2026-01-31 16:46",
+      "confidence": 0.8
+    },
+    {
+      "platform": "京东",
+      "product_name": "iPhone 15 京东自营 送货上门",
+      "original_price": 364,
+      "coupon": 46,
+      "final_price": 318,
+      "discount_rate": 12.6,
+      "url": "https://jd.com/item/456",
+      "shop": "京东自营",
+      "sales": "3123+",
+      "update_time": "2026-01-31 16:46",
+      "confidence": 0.95
+    },
+    {
+      "platform": "苏宁易购",
+      "product_name": "iPhone 15 苏宁易购 正品保证",
+      "original_price": 363,
+      "coupon": 36,
+      "final_price": 327,
+      "discount_rate": 9.9,
+      "url": "https://suning.com/item/333",
+      "shop": "苏宁自营",
+      "sales": "1159+",
+      "update_time": "2026-01-31 16:46",
+      "confidence": 0.85
+    }
+  ],
+  "analysis": {
+    "keyword": "iPhone 15",
+    "lowest_price": {
+      "platform": "拼多多",
+      "price": 30,
+      "original_price": 93,
+      "coupon": 63,
+      "shop": "官方旗舰店",
+      "url": "https://pinduoduo.com/item/789"
+    },
+    "highest_price": {
+      "platform": "苏宁易购",
+      "price": 327,
+      "original_price": 363
+    },
+    "statistics": {
+      "total_platforms": 7,
+      "average_price": 228.43,
+      "price_range": "30.00 - 327.00",
+      "potential_savings": 297,
+      "savings_percent": "81.8%"
+    },
+    "all_results": [
+      {
+        "platform": "拼多多",
+        "product_name": "iPhone 15 拼多多百亿补贴",
+        "original_price": 93,
+        "coupon": 63,
+        "final_price": 30,
+        "discount_rate": 67.7,
+        "url": "https://pinduoduo.com/item/789",
+        "shop": "官方旗舰店",
+        "sales": "18335+",
+        "update_time": "2026-01-31 16:46",
+        "confidence": 0.85
+      },
+      {
+        "platform": "抖音商城",
+        "product_name": "iPhone 15 抖音直播专享价",
+        "original_price": 160,
+        "coupon": 23,
+        "final_price": 137,
+        "discount_rate": 14.4,
+        "url": "https://douyin.com/item/111",
+        "shop": "品牌官方店",
+        "sales": "8589+",
+        "update_time": "2026-01-31 16:46",
+        "confidence": 0.8
+      },
+      {
+        "platform": "淘宝",
+        "product_name": "【品牌】iPhone 15 正品保障",
+        "original_price": 266,
+        "coupon": 31,
+        "final_price": 235,
+        "discount_rate": 11.7,
+        "url": "https://taobao.com/item/123",
+        "shop": "品牌官方旗舰店",
+        "sales": "7814+",
+        "update_time": "2026-01-31 16:46",
+        "confidence": 0.9
+      },
+      {
+        "platform": "小红书",
+        "product_name": "iPhone 15 小红书买手推荐",
+        "original_price": 290,
+        "coupon": 36,
+        "final_price": 254,
+        "discount_rate": 12.4,
+        "url": "https://xiaohongshu.com/item/444",
+        "shop": "买手店",
+        "sales": "1556+",
+        "update_time": "2026-01-31 16:46",
+        "confidence": 0.75
+      },
+      {
+        "platform": "唯品会",
+        "product_name": "iPhone 15 唯品会特卖",
+        "original_price": 352,
+        "coupon": 54,
+        "final_price": 298,
+        "discount_rate": 15.3,
+        "url": "https://vip.com/item/222",
+        "shop": "唯品会自营",
+        "sales": "4448+",
+        "update_time": "2026-01-31 16:46",
+        "confidence": 0.8
+      },
+      {
+        "platform": "京东",
+        "product_name": "iPhone 15 京东自营 送货上门",
+        "original_price": 364,
+        "coupon": 46,
+        "final_price": 318,
+        "discount_rate": 12.6,
+        "url": "https://jd.com/item/456",
+        "shop": "京东自营",
+        "sales": "3123+",
+        "update_time": "2026-01-31 16:46",
+        "confidence": 0.95
+      },
+      {
+        "platform": "苏宁易购",
+        "product_name": "iPhone 15 苏宁易购 正品保证",
+        "original_price": 363,
+        "coupon": 36,
+        "final_price": 327,
+        "discount_rate": 9.9,
+        "url": "https://suning.com/item/333",
+        "shop": "苏宁自营",
+        "sales": "1159+",
+        "update_time": "2026-01-31 16:46",
+        "confidence": 0.85
+      }
+    ],
+    "update_time": "2026-01-31 16:46"
+  },
+  "coupons": [
+    {
+      "platform": "淘宝",
+      "coupon_name": "满100减10",
+      "threshold": 100,
+      "discount": 10,
+      "source": "优惠券平台",
+      "update_time": "2026-01-31 16:46",
+      "confidence": 0.85
+    },
+    {
+      "platform": "京东",
+      "coupon_name": "满200减20",
+      "threshold": 200,
+      "discount": 20,
+      "source": "优惠券平台",
+      "update_time": "2026-01-31 16:46",
+      "confidence": 0.85
+    },
+    {
+      "platform": "拼多多",
+      "coupon_name": "满300减30",
+      "threshold": 300,
+      "discount": 30,
+      "source": "优惠券平台",
+      "update_time": "2026-01-31 16:46",
+      "confidence": 0.85
+    },
+    {
+      "platform": "抖音",
+      "coupon_name": "满500减50",
+      "threshold": 500,
+      "discount": 50,
+      "source": "优惠券平台",
+      "update_time": "2026-01-31 16:46",
+      "confidence": 0.85
+    },
+    {
+      "platform": "唯品会",
+      "coupon_name": "满1000减100",
+      "threshold": 1000,
+      "discount": 100,
+      "source": "优惠券平台",
+      "update_time": "2026-01-31 16:46",
+      "confidence": 0.85
+    }
+  ]
+}
