@@ -1,0 +1,282 @@
+[
+  {
+    "source": "武汉贷款通",
+    "bank": "通用银行",
+    "productName": "公众号推荐产品",
+    "rate": "4.0%-8.0%",
+    "min_amount": 50000,
+    "max_amount": 500000,
+    "term": 36,
+    "approvalTime": "1-7天",
+    "requirements": [
+      "征信良好",
+      "有稳定收入"
+    ],
+    "tags": [
+      "公众号推荐",
+      "待核实"
+    ],
+    "commission": "2.0%",
+    "extracted": true
+  },
+  {
+    "source": "汉口贷款助手",
+    "bank": "通用银行",
+    "productName": "公众号推荐产品",
+    "rate": "4.0%-8.0%",
+    "min_amount": 50000,
+    "max_amount": 500000,
+    "term": 36,
+    "approvalTime": "1-7天",
+    "requirements": [
+      "征信良好",
+      "有稳定收入"
+    ],
+    "tags": [
+      "公众号推荐",
+      "待核实"
+    ],
+    "commission": "2.0%",
+    "extracted": true
+  },
+  {
+    "source": "湖北金融通",
+    "bank": "通用银行",
+    "productName": "公众号推荐产品",
+    "rate": "4.0%-8.0%",
+    "min_amount": 50000,
+    "max_amount": 500000,
+    "term": 36,
+    "approvalTime": "1-7天",
+    "requirements": [
+      "征信良好",
+      "有稳定收入"
+    ],
+    "tags": [
+      "公众号推荐",
+      "待核实"
+    ],
+    "commission": "2.0%",
+    "extracted": true
+  },
+  {
+    "source": "光谷贷款指南",
+    "bank": "通用银行",
+    "productName": "公众号推荐产品",
+    "rate": "4.0%-8.0%",
+    "min_amount": 50000,
+    "max_amount": 500000,
+    "term": 36,
+    "approvalTime": "1-7天",
+    "requirements": [
+      "征信良好",
+      "有稳定收入"
+    ],
+    "tags": [
+      "公众号推荐",
+      "待核实"
+    ],
+    "commission": "2.0%",
+    "extracted": true
+  },
+  {
+    "source": "武汉房抵专家",
+    "bank": "通用银行",
+    "productName": "公众号推荐产品",
+    "rate": "4.0%-8.0%",
+    "min_amount": 50000,
+    "max_amount": 500000,
+    "term": 36,
+    "approvalTime": "1-7天",
+    "requirements": [
+      "征信良好",
+      "有稳定收入"
+    ],
+    "tags": [
+      "公众号推荐",
+      "待核实"
+    ],
+    "commission": "2.0%",
+    "extracted": true
+  },
+  {
+    "source": "汉口银行微服务",
+    "bank": "通用银行",
+    "productName": "公众号推荐产品",
+    "rate": "4.0%-8.0%",
+    "min_amount": 50000,
+    "max_amount": 500000,
+    "term": 36,
+    "approvalTime": "1-7天",
+    "requirements": [
+      "征信良好",
+      "有稳定收入"
+    ],
+    "tags": [
+      "公众号推荐",
+      "待核实"
+    ],
+    "commission": "2.0%",
+    "extracted": true
+  },
+  {
+    "source": "湖北银行微银行",
+    "bank": "通用银行",
+    "productName": "公众号推荐产品",
+    "rate": "4.0%-8.0%",
+    "min_amount": 50000,
+    "max_amount": 500000,
+    "term": 36,
+    "approvalTime": "1-7天",
+    "requirements": [
+      "征信良好",
+      "有稳定收入"
+    ],
+    "tags": [
+      "公众号推荐",
+      "待核实"
+    ],
+    "commission": "2.0%",
+    "extracted": true
+  },
+  {
+    "source": "公积金查询武汉",
+    "bank": "通用银行",
+    "productName": "公众号推荐产品",
+    "rate": "4.0%-8.0%",
+    "min_amount": 50000,
+    "max_amount": 500000,
+    "term": 36,
+    "approvalTime": "1-7天",
+    "requirements": [
+      "征信良好",
+      "有稳定收入"
+    ],
+    "tags": [
+      "公众号推荐",
+      "待核实"
+    ],
+    "commission": "2.0%",
+    "extracted": true
+  },
+  {
+    "source": "武汉信贷联盟",
+    "bank": "通用银行",
+    "productName": "公众号推荐产品",
+    "rate": "4.0%-8.0%",
+    "min_amount": 50000,
+    "max_amount": 500000,
+    "term": 36,
+    "approvalTime": "1-7天",
+    "requirements": [
+      "征信良好",
+      "有稳定收入"
+    ],
+    "tags": [
+      "公众号推荐",
+      "待核实"
+    ],
+    "commission": "2.0%",
+    "extracted": true
+  },
+  {
+    "source": "贷款中介联盟",
+    "bank": "通用银行",
+    "productName": "公众号推荐产品",
+    "rate": "4.0%-8.0%",
+    "min_amount": 50000,
+    "max_amount": 500000,
+    "term": 36,
+    "approvalTime": "1-7天",
+    "requirements": [
+      "征信良好",
+      "有稳定收入"
+    ],
+    "tags": [
+      "公众号推荐",
+      "待核实"
+    ],
+    "commission": "2.0%",
+    "extracted": true
+  },
+  {
+    "source": "银行产品大全",
+    "bank": "通用银行",
+    "productName": "公众号推荐产品",
+    "rate": "4.0%-8.0%",
+    "min_amount": 50000,
+    "max_amount": 500000,
+    "term": 36,
+    "approvalTime": "1-7天",
+    "requirements": [
+      "征信良好",
+      "有稳定收入"
+    ],
+    "tags": [
+      "公众号推荐",
+      "待核实"
+    ],
+    "commission": "2.0%",
+    "extracted": true
+  },
+  {
+    "source": "武汉房贷通",
+    "bank": "通用银行",
+    "productName": "公众号推荐产品",
+    "rate": "4.0%-8.0%",
+    "min_amount": 50000,
+    "max_amount": 500000,
+    "term": 36,
+    "approvalTime": "1-7天",
+    "requirements": [
+      "征信良好",
+      "有稳定收入"
+    ],
+    "tags": [
+      "公众号推荐",
+      "待核实"
+    ],
+    "commission": "2.0%",
+    "extracted": true
+  },
+  {
+    "source": "企业贷助手",
+    "bank": "通用银行",
+    "productName": "公众号推荐产品",
+    "rate": "4.0%-8.0%",
+    "min_amount": 50000,
+    "max_amount": 500000,
+    "term": 36,
+    "approvalTime": "1-7天",
+    "requirements": [
+      "征信良好",
+      "有稳定收入"
+    ],
+    "tags": [
+      "公众号推荐",
+      "待核实"
+    ],
+    "commission": "2.0%",
+    "extracted": true
+  },
+  {
+    "source": "征信修复指南",
+    "bank": "通用银行",
+    "productName": "公众号推荐产品",
+    "rate": "4.0%-8.0%",
+    "min_amount": 50000,
+    "max_amount": 500000,
+    "term": 36,
+    "approvalTime": "1-7天",
+    "requirements": [
+      "征信良好",
+      "有稳定收入"
+    ],
+    "tags": [
+      "公众号推荐",
+      "待核实"
+    ],
+    "commission": "2.0%",
+    "extracted": true
+  }
+]
