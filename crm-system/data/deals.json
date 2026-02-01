@@ -1,0 +1,14 @@
+[
+  {
+    "id": "d001",
+    "customer_id": "c005",
+    "product_name": "融e借",
+    "bank": "工商银行",
+    "amount": 200000,
+    "commission": 3000,
+    "rate": 3.65,
+    "term": 36,
+    "closed_at": "2026-01-25",
+    "status": "已放款"
+  }
+]
