@@ -1,0 +1,34 @@
+[2026-01-30 16:52:05] 🚀 启动产品更新 Git 工作流
+[2026-01-30 16:52:05] 📦 发现 1 个新文件待处理
+[2026-01-30 16:52:05] 🌿 创建分支: product-update-20260130-165205
+Switched to a new branch 'product-update-20260130-165205'
+[2026-01-30 16:52:05] ✅ 处理文件: /workspaces/MyMoltbot/obsidian-templates/产品库/待审核/工商银行-融e借.md
+[product-update-20260130-165205 0907281] 📦 产品数据更新 - 2026-01-30
+ 13 files changed, 1883 insertions(+)
+ create mode 100644 "obsidian-templates/OBSIDIAN\344\275\277\347\224\250\346\214\207\345\215\227.md"
+ create mode 100644 "obsidian-templates/\344\272\247\345\223\201\345\272\223/TEMPLATE-\344\272\247\345\223\201.md"
+ create mode 100644 "obsidian-templates/\344\272\247\345\223\201\345\272\223/\344\272\247\345\223\201\346\225\260\346\215\256\345\272\223\347\264\242\345\274\225.md"
+ create mode 100644 "obsidian-templates/\344\272\247\345\223\201\345\272\223/\345\267\245\345\225\206\351\223\266\350\241\214/\350\236\215e\345\200\237.md"
+ create mode 100644 "obsidian-templates/\344\272\247\345\223\201\345\272\223/\345\271\263\345\256\211\351\223\266\350\241\214/\346\226\260\344\270\200\350\264\267.md"
+ create mode 100644 "obsidian-templates/\344\272\247\345\223\201\345\272\223/\345\273\272\350\256\276\351\223\266\350\241\214/\345\277\253\350\264\267.md"
+ create mode 100644 "obsidian-templates/\344\272\247\345\223\201\345\272\223/\345\276\205\345\256\241\346\240\270/\345\267\245\345\225\206\351\223\266\350\241\214-\350\236\215e\345\200\237.md"
+ create mode 100644 "obsidian-templates/\344\272\247\345\223\201\345\272\223/\346\213\233\345\225\206\351\223\266\350\241\214/\351\227\252\347\224\265\350\264\267.md"
+ create mode 100644 "obsidian-templates/\345\267\245\345\205\267/\350\264\267\346\254\276\350\256\241\347\256\227\345\231\250.md"
+ create mode 100644 "obsidian-templates/\347\237\245\350\257\206\345\272\223/\344\272\247\345\223\201\346\224\273\347\225\245/TEMPLATE-\344\272\247\345\223\201\346\224\273\347\225\245.md"
+ create mode 100644 "obsidian-templates/\350\264\267\346\254\276\344\272\247\345\223\201\347\237\245\350\257\206\345\272\223.md"
+ create mode 100644 templates/NOTION_SETUP_GUIDE.md
+ create mode 100644 templates/products-template.csv
+[2026-01-30 16:52:05] 📤 推送到远程...
+remote: 
+remote: Create a pull request for 'product-update-20260130-165205' on GitHub by visiting:        
+remote:      https://github.com/jiangzhuizzz/MyMoltbot/pull/new/product-update-20260130-165205        
+remote: 
+To https://github.com/jiangzhuizzz/MyMoltbot.git
+ * [new branch]      product-update-20260130-165205 -> product-update-20260130-165205
+branch 'product-update-20260130-165205' set up to track 'origin/product-update-20260130-165205'.
+[2026-01-30 16:52:06] 🔗 创建 Pull Request...
+https://github.com/jiangzhuizzz/MyMoltbot/pull/1
+[2026-01-30 16:52:10] ✅ PR 创建成功！
+
+请访问 GitHub 审核并合并 PR
+[2026-01-30 16:52:10] ✅ Git 工作流完成！

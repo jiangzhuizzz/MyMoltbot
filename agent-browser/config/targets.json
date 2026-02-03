@@ -1,0 +1,145 @@
+{
+    "description": "浏览器自动化监控目标配置",
+    "last_updated": "2026-01-30",
+    "settings": {
+        "headless": true,
+        "timeout": 30000,
+        "screenshot_dir": "/home/codespace/clawd/agent-browser/data/snapshots",
+        "check_interval": 3600
+    },
+    "targets": [
+        {
+            "name": "武汉贷款通公众号",
+            "url": "https://mp.weixin.qq.com/profile?src=3",
+            "type": "wechat",
+            "enabled": true,
+            "check_interval": 3600,
+            "notify_on_change": true,
+            "selectors": {
+                "articles": ".article-card",
+                "title": ".title",
+                "content": ".content",
+                "date": ".date"
+            }
+        },
+        {
+            "name": "工商银行贷款页面",
+            "url": "https://www.icbc.com.cn/icbc/个人贷款",
+            "type": "bank",
+            "enabled": true,
+            "check_interval": 7200,
+            "notify_on_change": true,
+            "selectors": {
+                "products": ".product-item",
+                "name": ".product-name",
+                "rate": ".interest-rate",
+                "amount": ".loan-amount"
+            }
+        },
+        {
+            "name": "建设银行快贷",
+            "url": "https://www.ccb.com/personal/loan/kuandai.html",
+            "type": "bank",
+            "enabled": true,
+            "check_interval": 7200,
+            "notify_on_change": true,
+            "selectors": {
+                "product_name": ".product-title",
+                "rate": ".rate-info",
+                "conditions": ".condition-list"
+            }
+        },
+        {
+            "name": "融360武汉贷款",
+            "url": "https://www.rong360.com/loan/wuhan",
+            "type": "platform",
+            "enabled": true,
+            "check_interval": 3600,
+            "notify_on_change": true,
+            "selectors": {
+                "products": ".loan-product",
+                "bank": ".bank-name",
+                "rate": ".rate",
+                "amount": ".amount"
+            }
+        },
+        {
+            "name": "湖北银行产品",
+            "url": "https://www.hbbchina.com/personal/loan",
+            "type": "bank",
+            "enabled": false,
+            "check_interval": 7200,
+            "notify_on_change": true,
+            "selectors": {
+                "products": ".product-list li",
+                "name": ".name",
+                "rate": ".rate"
+            }
+        }
+    ],
+    "automation_tasks": [
+        {
+            "name": "采集武汉贷款通文章",
+            "enabled": true,
+            "headless": true,
+            "steps": [
+                {
+                    "action": "goto",
+                    "url": "https://mp.weixin.qq.com/profile?src=3"
+                },
+                {
+                    "action": "wait",
+                    "seconds": 3
+                },
+                {
+                    "action": "scroll",
+                    "direction": "down",
+                    "times": 3
+                },
+                {
+                    "action": "screenshot",
+                    "name": "wechat_articles"
+                },
+                {
+                    "action": "extract",
+                    "selectors": {
+                        "articles": ".article-item",
+                        "titles": ".title"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "检查银行产品更新",
+            "enabled": true,
+            "headless": true,
+            "steps": [
+                {
+                    "action": "goto",
+                    "url": "https://www.icbc.com.cn/icbc/个人贷款"
+                },
+                {
+                    "action": "wait",
+                    "seconds": 2
+                },
+                {
+                    "action": "screenshot",
+                    "name": "icbc_products"
+                },
+                {
+                    "action": "extract",
+                    "selectors": {
+                        "products": ".product-item",
+                        "names": ".name",
+                        "rates": ".rate"
+                    }
+                }
+            ]
+        }
+    ],
+    "notifications": {
+        "whatsapp": true,
+        "log": true,
+        "email": false
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "twenty-crm": {
+      "version": "1.0.0",
+      "installedAt": 1769967537658
+    },
+    "marketing-skills": {
+      "version": "0.1.2",
+      "installedAt": 1769967545382
+    },
+    "brave-search": {
+      "version": "1.0.1",
+      "installedAt": 1769967552437
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1769967553777
+    }
+  }
+}

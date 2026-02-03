@@ -1,0 +1,119 @@
+{
+    "description": "武汉地区贷款类微信公众号列表",
+    "last_updated": "2026-01-30",
+    "accounts": [
+        {
+            "name": "武汉贷款通",
+            "biz": "wuhan_daikuan_tong",
+            "type": "产品推荐",
+            "focus": ["公积金贷", "装修贷", "经营贷"],
+            "region": "武汉",
+            "priority": "high",
+            "url": "https://mp.weixin.qq.com/",
+            "notes": "专注武汉本地贷款产品"
+        },
+        {
+            "name": "汉口贷款助手",
+            "biz": "hankou_daikuan",
+            "type": "产品评测",
+            "focus": ["信用贷", "抵押贷", "车贷"],
+            "region": "武汉（汉口）",
+            "priority": "high",
+            "url": "https://mp.weixin.qq.com/",
+            "notes": "产品评测详细，有实际申请案例"
+        },
+        {
+            "name": "湖北金融通",
+            "biz": "hubei_finance",
+            "type": "政策解读",
+            "focus": ["政策贷", "创业贷", "小微贷"],
+            "region": "湖北",
+            "priority": "medium",
+            "url": "https://mp.weixin.qq.com/",
+            "notes": "政策解读专业，适合了解最新政策"
+        },
+        {
+            "name": "光谷贷款指南",
+            "biz": "guanggu_daikuan",
+            "type": "产品推荐",
+            "focus": ["公积金贷", "信用贷", "科技贷"],
+            "region": "武汉（光谷）",
+            "priority": "medium",
+            "url": "https://mp.weixin.qq.com/",
+            "notes": "关注光谷地区科技企业贷款"
+        },
+        {
+            "name": "武汉房抵专家",
+            "biz": "wuhan_fangdi",
+            "type": "抵押贷款",
+            "focus": ["房产抵押", "经营抵押"],
+            "region": "武汉",
+            "priority": "high",
+            "url": "https://mp.weixin.qq.com/",
+            "notes": "专注房产抵押贷款"
+        },
+        {
+            "name": "汉口银行微服务",
+            "biz": "hankou_bank",
+            "type": "银行官方",
+            "focus": ["本地银行产品", "市民贷"],
+            "region": "武汉",
+            "priority": "high",
+            "url": "https://mp.weixin.qq.com/",
+            "notes": "汉口银行官方公众号"
+        },
+        {
+            "name": "湖北银行微银行",
+            "biz": "hubei_bank",
+            "type": "银行官方",
+            "focus": ["本地银行产品", "荆楚贷"],
+            "region": "湖北",
+            "priority": "high",
+            "url": "https://mp.weixin.qq.com/",
+            "notes": "湖北银行官方公众号"
+        },
+        {
+            "name": "公积金查询武汉",
+            "biz": "gongjijin_wuhan",
+            "type": "公积金资讯",
+            "focus": ["公积金贷款", "公积金政策"],
+            "region": "武汉",
+            "priority": "medium",
+            "url": "https://mp.weixin.qq.com/",
+            "notes": "专注公积金相关资讯"
+        },
+        {
+            "name": "武汉信贷经理",
+            "biz": "wuhan_xindai",
+            "type": "信贷经理",
+            "focus": ["信用贷", "消费贷"],
+            "region": "武汉",
+            "priority": "medium",
+            "url": "https://mp.weixin.qq.com/",
+            "notes": "信贷经理个人号，分享一线经验"
+        },
+        {
+            "name": "贷款知识科普",
+            "biz": "daikuan_kepu",
+            "type": "知识科普",
+            "focus": ["贷款知识", "避坑指南"],
+            "region": "全国",
+            "priority": "low",
+            "url": "https://mp.weixin.qq.com/",
+            "notes": "贷款基础知识科普"
+        }
+    ],
+    "categories": {
+        "产品推荐": ["武汉贷款通", "光谷贷款指南"],
+        "产品评测": ["汉口贷款助手"],
+        "政策解读": ["湖北金融通"],
+        "抵押贷款": ["武汉房抵专家"],
+        "银行官方": ["汉口银行微服务", "湖北银行微银行"],
+        "公积金资讯": ["公积金查询武汉"]
+    },
+    "keywords": [
+        "武汉贷款", "公积金贷", "装修贷", "经营贷",
+        "信用贷", "房产抵押", "车贷", "创业贷",
+        "低利率", "快速审批", "额度高", "武汉银行"
+    ]
+}

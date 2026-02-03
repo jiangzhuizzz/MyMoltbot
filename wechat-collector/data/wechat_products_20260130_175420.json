@@ -1,0 +1,862 @@
+[
+  {
+    "source": "武汉贷款通",
+    "bank": "工商银行",
+    "productName": "融e借",
+    "rate": "3.65%",
+    "minAmount": 50000,
+    "maxAmount": 3000000,
+    "term": 36,
+    "approvalTime": "1-3天",
+    "commission": "1.5%",
+    "tags": [
+      "低利率",
+      "公积金用户",
+      "审批快"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "武汉贷款通",
+    "bank": "建设银行",
+    "productName": "快贷",
+    "rate": "3.85%",
+    "minAmount": 10000,
+    "maxAmount": 200000,
+    "term": 36,
+    "approvalTime": "1-2天",
+    "commission": "1.2%",
+    "tags": [
+      "门槛低",
+      "建行客户"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "武汉贷款通",
+    "bank": "招商银行",
+    "productName": "闪电贷",
+    "rate": "4.2%",
+    "minAmount": 20000,
+    "maxAmount": 300000,
+    "term": 36,
+    "approvalTime": "当天",
+    "commission": "1.8%",
+    "tags": [
+      "快速放款",
+      "额度灵活"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "武汉贷款通",
+    "bank": "湖北银行",
+    "productName": "荆楚贷",
+    "rate": "4.35%",
+    "minAmount": 100000,
+    "maxAmount": 500000,
+    "term": 36,
+    "approvalTime": "2-5天",
+    "commission": "1.8%",
+    "tags": [
+      "本地银行",
+      "额度高"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "武汉贷款通",
+    "bank": "汉口银行",
+    "productName": "市民贷",
+    "rate": "4.5%",
+    "minAmount": 50000,
+    "maxAmount": 200000,
+    "term": 24,
+    "approvalTime": "3-5天",
+    "commission": "1.5%",
+    "tags": [
+      "本地银行",
+      "武汉市民"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "汉口贷款助手",
+    "bank": "工商银行",
+    "productName": "融e借",
+    "rate": "3.65%",
+    "minAmount": 50000,
+    "maxAmount": 3000000,
+    "term": 36,
+    "approvalTime": "1-3天",
+    "commission": "1.5%",
+    "tags": [
+      "低利率",
+      "公积金用户",
+      "审批快"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "汉口贷款助手",
+    "bank": "建设银行",
+    "productName": "快贷",
+    "rate": "3.85%",
+    "minAmount": 10000,
+    "maxAmount": 200000,
+    "term": 36,
+    "approvalTime": "1-2天",
+    "commission": "1.2%",
+    "tags": [
+      "门槛低",
+      "建行客户"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "汉口贷款助手",
+    "bank": "招商银行",
+    "productName": "闪电贷",
+    "rate": "4.2%",
+    "minAmount": 20000,
+    "maxAmount": 300000,
+    "term": 36,
+    "approvalTime": "当天",
+    "commission": "1.8%",
+    "tags": [
+      "快速放款",
+      "额度灵活"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "汉口贷款助手",
+    "bank": "湖北银行",
+    "productName": "荆楚贷",
+    "rate": "4.35%",
+    "minAmount": 100000,
+    "maxAmount": 500000,
+    "term": 36,
+    "approvalTime": "2-5天",
+    "commission": "1.8%",
+    "tags": [
+      "本地银行",
+      "额度高"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "汉口贷款助手",
+    "bank": "汉口银行",
+    "productName": "市民贷",
+    "rate": "4.5%",
+    "minAmount": 50000,
+    "maxAmount": 200000,
+    "term": 24,
+    "approvalTime": "3-5天",
+    "commission": "1.5%",
+    "tags": [
+      "本地银行",
+      "武汉市民"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "湖北金融通",
+    "bank": "工商银行",
+    "productName": "融e借",
+    "rate": "3.65%",
+    "minAmount": 50000,
+    "maxAmount": 3000000,
+    "term": 36,
+    "approvalTime": "1-3天",
+    "commission": "1.5%",
+    "tags": [
+      "低利率",
+      "公积金用户",
+      "审批快"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "湖北金融通",
+    "bank": "建设银行",
+    "productName": "快贷",
+    "rate": "3.85%",
+    "minAmount": 10000,
+    "maxAmount": 200000,
+    "term": 36,
+    "approvalTime": "1-2天",
+    "commission": "1.2%",
+    "tags": [
+      "门槛低",
+      "建行客户"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "湖北金融通",
+    "bank": "招商银行",
+    "productName": "闪电贷",
+    "rate": "4.2%",
+    "minAmount": 20000,
+    "maxAmount": 300000,
+    "term": 36,
+    "approvalTime": "当天",
+    "commission": "1.8%",
+    "tags": [
+      "快速放款",
+      "额度灵活"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "湖北金融通",
+    "bank": "湖北银行",
+    "productName": "荆楚贷",
+    "rate": "4.35%",
+    "minAmount": 100000,
+    "maxAmount": 500000,
+    "term": 36,
+    "approvalTime": "2-5天",
+    "commission": "1.8%",
+    "tags": [
+      "本地银行",
+      "额度高"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "湖北金融通",
+    "bank": "汉口银行",
+    "productName": "市民贷",
+    "rate": "4.5%",
+    "minAmount": 50000,
+    "maxAmount": 200000,
+    "term": 24,
+    "approvalTime": "3-5天",
+    "commission": "1.5%",
+    "tags": [
+      "本地银行",
+      "武汉市民"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "光谷贷款指南",
+    "bank": "工商银行",
+    "productName": "融e借",
+    "rate": "3.65%",
+    "minAmount": 50000,
+    "maxAmount": 3000000,
+    "term": 36,
+    "approvalTime": "1-3天",
+    "commission": "1.5%",
+    "tags": [
+      "低利率",
+      "公积金用户",
+      "审批快"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "光谷贷款指南",
+    "bank": "建设银行",
+    "productName": "快贷",
+    "rate": "3.85%",
+    "minAmount": 10000,
+    "maxAmount": 200000,
+    "term": 36,
+    "approvalTime": "1-2天",
+    "commission": "1.2%",
+    "tags": [
+      "门槛低",
+      "建行客户"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "光谷贷款指南",
+    "bank": "招商银行",
+    "productName": "闪电贷",
+    "rate": "4.2%",
+    "minAmount": 20000,
+    "maxAmount": 300000,
+    "term": 36,
+    "approvalTime": "当天",
+    "commission": "1.8%",
+    "tags": [
+      "快速放款",
+      "额度灵活"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "光谷贷款指南",
+    "bank": "湖北银行",
+    "productName": "荆楚贷",
+    "rate": "4.35%",
+    "minAmount": 100000,
+    "maxAmount": 500000,
+    "term": 36,
+    "approvalTime": "2-5天",
+    "commission": "1.8%",
+    "tags": [
+      "本地银行",
+      "额度高"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "光谷贷款指南",
+    "bank": "汉口银行",
+    "productName": "市民贷",
+    "rate": "4.5%",
+    "minAmount": 50000,
+    "maxAmount": 200000,
+    "term": 24,
+    "approvalTime": "3-5天",
+    "commission": "1.5%",
+    "tags": [
+      "本地银行",
+      "武汉市民"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "武汉房抵专家",
+    "bank": "工商银行",
+    "productName": "融e借",
+    "rate": "3.65%",
+    "minAmount": 50000,
+    "maxAmount": 3000000,
+    "term": 36,
+    "approvalTime": "1-3天",
+    "commission": "1.5%",
+    "tags": [
+      "低利率",
+      "公积金用户",
+      "审批快"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "武汉房抵专家",
+    "bank": "建设银行",
+    "productName": "快贷",
+    "rate": "3.85%",
+    "minAmount": 10000,
+    "maxAmount": 200000,
+    "term": 36,
+    "approvalTime": "1-2天",
+    "commission": "1.2%",
+    "tags": [
+      "门槛低",
+      "建行客户"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "武汉房抵专家",
+    "bank": "招商银行",
+    "productName": "闪电贷",
+    "rate": "4.2%",
+    "minAmount": 20000,
+    "maxAmount": 300000,
+    "term": 36,
+    "approvalTime": "当天",
+    "commission": "1.8%",
+    "tags": [
+      "快速放款",
+      "额度灵活"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "武汉房抵专家",
+    "bank": "湖北银行",
+    "productName": "荆楚贷",
+    "rate": "4.35%",
+    "minAmount": 100000,
+    "maxAmount": 500000,
+    "term": 36,
+    "approvalTime": "2-5天",
+    "commission": "1.8%",
+    "tags": [
+      "本地银行",
+      "额度高"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "武汉房抵专家",
+    "bank": "汉口银行",
+    "productName": "市民贷",
+    "rate": "4.5%",
+    "minAmount": 50000,
+    "maxAmount": 200000,
+    "term": 24,
+    "approvalTime": "3-5天",
+    "commission": "1.5%",
+    "tags": [
+      "本地银行",
+      "武汉市民"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "汉口银行微服务",
+    "bank": "工商银行",
+    "productName": "融e借",
+    "rate": "3.65%",
+    "minAmount": 50000,
+    "maxAmount": 3000000,
+    "term": 36,
+    "approvalTime": "1-3天",
+    "commission": "1.5%",
+    "tags": [
+      "低利率",
+      "公积金用户",
+      "审批快"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "汉口银行微服务",
+    "bank": "建设银行",
+    "productName": "快贷",
+    "rate": "3.85%",
+    "minAmount": 10000,
+    "maxAmount": 200000,
+    "term": 36,
+    "approvalTime": "1-2天",
+    "commission": "1.2%",
+    "tags": [
+      "门槛低",
+      "建行客户"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "汉口银行微服务",
+    "bank": "招商银行",
+    "productName": "闪电贷",
+    "rate": "4.2%",
+    "minAmount": 20000,
+    "maxAmount": 300000,
+    "term": 36,
+    "approvalTime": "当天",
+    "commission": "1.8%",
+    "tags": [
+      "快速放款",
+      "额度灵活"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "汉口银行微服务",
+    "bank": "湖北银行",
+    "productName": "荆楚贷",
+    "rate": "4.35%",
+    "minAmount": 100000,
+    "maxAmount": 500000,
+    "term": 36,
+    "approvalTime": "2-5天",
+    "commission": "1.8%",
+    "tags": [
+      "本地银行",
+      "额度高"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "汉口银行微服务",
+    "bank": "汉口银行",
+    "productName": "市民贷",
+    "rate": "4.5%",
+    "minAmount": 50000,
+    "maxAmount": 200000,
+    "term": 24,
+    "approvalTime": "3-5天",
+    "commission": "1.5%",
+    "tags": [
+      "本地银行",
+      "武汉市民"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "湖北银行微银行",
+    "bank": "工商银行",
+    "productName": "融e借",
+    "rate": "3.65%",
+    "minAmount": 50000,
+    "maxAmount": 3000000,
+    "term": 36,
+    "approvalTime": "1-3天",
+    "commission": "1.5%",
+    "tags": [
+      "低利率",
+      "公积金用户",
+      "审批快"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "湖北银行微银行",
+    "bank": "建设银行",
+    "productName": "快贷",
+    "rate": "3.85%",
+    "minAmount": 10000,
+    "maxAmount": 200000,
+    "term": 36,
+    "approvalTime": "1-2天",
+    "commission": "1.2%",
+    "tags": [
+      "门槛低",
+      "建行客户"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "湖北银行微银行",
+    "bank": "招商银行",
+    "productName": "闪电贷",
+    "rate": "4.2%",
+    "minAmount": 20000,
+    "maxAmount": 300000,
+    "term": 36,
+    "approvalTime": "当天",
+    "commission": "1.8%",
+    "tags": [
+      "快速放款",
+      "额度灵活"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "湖北银行微银行",
+    "bank": "湖北银行",
+    "productName": "荆楚贷",
+    "rate": "4.35%",
+    "minAmount": 100000,
+    "maxAmount": 500000,
+    "term": 36,
+    "approvalTime": "2-5天",
+    "commission": "1.8%",
+    "tags": [
+      "本地银行",
+      "额度高"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "湖北银行微银行",
+    "bank": "汉口银行",
+    "productName": "市民贷",
+    "rate": "4.5%",
+    "minAmount": 50000,
+    "maxAmount": 200000,
+    "term": 24,
+    "approvalTime": "3-5天",
+    "commission": "1.5%",
+    "tags": [
+      "本地银行",
+      "武汉市民"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "公积金查询武汉",
+    "bank": "工商银行",
+    "productName": "融e借",
+    "rate": "3.65%",
+    "minAmount": 50000,
+    "maxAmount": 3000000,
+    "term": 36,
+    "approvalTime": "1-3天",
+    "commission": "1.5%",
+    "tags": [
+      "低利率",
+      "公积金用户",
+      "审批快"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "公积金查询武汉",
+    "bank": "建设银行",
+    "productName": "快贷",
+    "rate": "3.85%",
+    "minAmount": 10000,
+    "maxAmount": 200000,
+    "term": 36,
+    "approvalTime": "1-2天",
+    "commission": "1.2%",
+    "tags": [
+      "门槛低",
+      "建行客户"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "公积金查询武汉",
+    "bank": "招商银行",
+    "productName": "闪电贷",
+    "rate": "4.2%",
+    "minAmount": 20000,
+    "maxAmount": 300000,
+    "term": 36,
+    "approvalTime": "当天",
+    "commission": "1.8%",
+    "tags": [
+      "快速放款",
+      "额度灵活"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "公积金查询武汉",
+    "bank": "湖北银行",
+    "productName": "荆楚贷",
+    "rate": "4.35%",
+    "minAmount": 100000,
+    "maxAmount": 500000,
+    "term": 36,
+    "approvalTime": "2-5天",
+    "commission": "1.8%",
+    "tags": [
+      "本地银行",
+      "额度高"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "公积金查询武汉",
+    "bank": "汉口银行",
+    "productName": "市民贷",
+    "rate": "4.5%",
+    "minAmount": 50000,
+    "maxAmount": 200000,
+    "term": 24,
+    "approvalTime": "3-5天",
+    "commission": "1.5%",
+    "tags": [
+      "本地银行",
+      "武汉市民"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "武汉信贷经理",
+    "bank": "工商银行",
+    "productName": "融e借",
+    "rate": "3.65%",
+    "minAmount": 50000,
+    "maxAmount": 3000000,
+    "term": 36,
+    "approvalTime": "1-3天",
+    "commission": "1.5%",
+    "tags": [
+      "低利率",
+      "公积金用户",
+      "审批快"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "武汉信贷经理",
+    "bank": "建设银行",
+    "productName": "快贷",
+    "rate": "3.85%",
+    "minAmount": 10000,
+    "maxAmount": 200000,
+    "term": 36,
+    "approvalTime": "1-2天",
+    "commission": "1.2%",
+    "tags": [
+      "门槛低",
+      "建行客户"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "武汉信贷经理",
+    "bank": "招商银行",
+    "productName": "闪电贷",
+    "rate": "4.2%",
+    "minAmount": 20000,
+    "maxAmount": 300000,
+    "term": 36,
+    "approvalTime": "当天",
+    "commission": "1.8%",
+    "tags": [
+      "快速放款",
+      "额度灵活"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "武汉信贷经理",
+    "bank": "湖北银行",
+    "productName": "荆楚贷",
+    "rate": "4.35%",
+    "minAmount": 100000,
+    "maxAmount": 500000,
+    "term": 36,
+    "approvalTime": "2-5天",
+    "commission": "1.8%",
+    "tags": [
+      "本地银行",
+      "额度高"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "武汉信贷经理",
+    "bank": "汉口银行",
+    "productName": "市民贷",
+    "rate": "4.5%",
+    "minAmount": 50000,
+    "maxAmount": 200000,
+    "term": 24,
+    "approvalTime": "3-5天",
+    "commission": "1.5%",
+    "tags": [
+      "本地银行",
+      "武汉市民"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "贷款知识科普",
+    "bank": "工商银行",
+    "productName": "融e借",
+    "rate": "3.65%",
+    "minAmount": 50000,
+    "maxAmount": 3000000,
+    "term": 36,
+    "approvalTime": "1-3天",
+    "commission": "1.5%",
+    "tags": [
+      "低利率",
+      "公积金用户",
+      "审批快"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "贷款知识科普",
+    "bank": "建设银行",
+    "productName": "快贷",
+    "rate": "3.85%",
+    "minAmount": 10000,
+    "maxAmount": 200000,
+    "term": 36,
+    "approvalTime": "1-2天",
+    "commission": "1.2%",
+    "tags": [
+      "门槛低",
+      "建行客户"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "贷款知识科普",
+    "bank": "招商银行",
+    "productName": "闪电贷",
+    "rate": "4.2%",
+    "minAmount": 20000,
+    "maxAmount": 300000,
+    "term": 36,
+    "approvalTime": "当天",
+    "commission": "1.8%",
+    "tags": [
+      "快速放款",
+      "额度灵活"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "贷款知识科普",
+    "bank": "湖北银行",
+    "productName": "荆楚贷",
+    "rate": "4.35%",
+    "minAmount": 100000,
+    "maxAmount": 500000,
+    "term": 36,
+    "approvalTime": "2-5天",
+    "commission": "1.8%",
+    "tags": [
+      "本地银行",
+      "额度高"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "source": "贷款知识科普",
+    "bank": "汉口银行",
+    "productName": "市民贷",
+    "rate": "4.5%",
+    "minAmount": 50000,
+    "maxAmount": 200000,
+    "term": 24,
+    "approvalTime": "3-5天",
+    "commission": "1.5%",
+    "tags": [
+      "本地银行",
+      "武汉市民"
+    ],
+    "status": "在推",
+    "updateTime": "2026-01-30"
+  }
+]

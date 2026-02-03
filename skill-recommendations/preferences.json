@@ -1,0 +1,42 @@
+{
+    "job": "贷款中介",
+    "location": "武汉",
+    "interests": ["产品采集", "自媒体运营", "公众号监控"],
+    "installed_skills": [
+        "daily-report",
+        "product-collector",
+        "wechat-collector",
+        "agent-browser",
+        "codespace-keepalive",
+        "social-trends",
+        "find-skills"
+    ],
+    "recommended_skills": [
+        {
+            "name": "daily-report",
+            "score": 95,
+            "reason": "必备技能，适合贷款中介日常运营"
+        },
+        {
+            "name": "product-collector",
+            "score": 90,
+            "reason": "核心技能，维护产品库"
+        },
+        {
+            "name": "wechat-collector",
+            "score": 88,
+            "reason": "本地化产品采集，武汉地区"
+        },
+        {
+            "name": "agent-browser",
+            "score": 85,
+            "reason": "浏览器自动化，网页监控"
+        },
+        {
+            "name": "social-trends",
+            "score": 80,
+            "reason": "自媒体热点追踪"
+        }
+    ],
+    "last_updated": "2026-01-30"
+}

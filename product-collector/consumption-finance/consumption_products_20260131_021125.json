@@ -1,0 +1,680 @@
+[
+  {
+    "company": "湖北消费金融",
+    "type": "消费金融",
+    "region": "湖北",
+    "headquarters": "武汉",
+    "product_name": "湖北消金易贷",
+    "category": "信用贷",
+    "rate": "7.2%-14.4%",
+    "min_amount": 5000,
+    "max_amount": 200000,
+    "term": 36,
+    "approval_time": "1-3天",
+    "requirements": [
+      "年龄18-60岁",
+      "有稳定收入",
+      "征信良好"
+    ],
+    "tags": [
+      "本地公司",
+      "门槛低",
+      "额度灵活"
+    ],
+    "commission": "2.5%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "湖北消费金融",
+    "type": "消费金融",
+    "region": "湖北",
+    "headquarters": "武汉",
+    "product_name": "湖北消金业主贷",
+    "category": "业主贷",
+    "rate": "6.5%-12%",
+    "min_amount": 100000,
+    "max_amount": 500000,
+    "term": 60,
+    "approval_time": "3-5天",
+    "requirements": [
+      "有房产",
+      "产权清晰",
+      "收入证明"
+    ],
+    "tags": [
+      "房产专享",
+      "高额度"
+    ],
+    "commission": "2.0%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "湖北消费金融",
+    "type": "消费金融",
+    "region": "湖北",
+    "headquarters": "武汉",
+    "product_name": "湖北消金社保贷",
+    "category": "社保贷",
+    "rate": "6.8%-13.2%",
+    "min_amount": 30000,
+    "max_amount": 200000,
+    "term": 36,
+    "approval_time": "2-3天",
+    "requirements": [
+      "连续缴纳社保6个月+",
+      "征信良好"
+    ],
+    "tags": [
+      "社保专享",
+      "门槛适中"
+    ],
+    "commission": "2.3%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "中银消费金融",
+    "type": "消费金融",
+    "region": "全国",
+    "headquarters": "上海",
+    "product_name": "中银消费贷",
+    "category": "信用贷",
+    "rate": "5.4%-9.6%",
+    "min_amount": 20000,
+    "max_amount": 200000,
+    "term": 36,
+    "approval_time": "1-2天",
+    "requirements": [
+      "年龄18-65岁",
+      "有稳定收入",
+      "征信良好"
+    ],
+    "tags": [
+      "利率低",
+      "审批快",
+      "银行背景"
+    ],
+    "commission": "2.0%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "中银消费金融",
+    "type": "消费金融",
+    "region": "全国",
+    "headquarters": "上海",
+    "product_name": "中银乐享贷",
+    "category": "消费贷",
+    "rate": "6.5%-11.4%",
+    "min_amount": 50000,
+    "max_amount": 300000,
+    "term": 48,
+    "approval_time": "2-3天",
+    "requirements": [
+      "有社保/公积金",
+      "征信良好"
+    ],
+    "tags": [
+      "期限长",
+      "额度高"
+    ],
+    "commission": "2.2%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "招联消费金融",
+    "type": "消费金融",
+    "region": "全国",
+    "headquarters": "深圳",
+    "product_name": "招联好期贷",
+    "category": "信用贷",
+    "rate": "7.2%-18%",
+    "min_amount": 1000,
+    "max_amount": 200000,
+    "term": 36,
+    "approval_time": "当天",
+    "requirements": [
+      "年龄18-60岁",
+      "有稳定收入",
+      "芝麻分600+"
+    ],
+    "tags": [
+      "全程线上",
+      "门槛低",
+      "随借随还"
+    ],
+    "commission": "2.5%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "招联消费金融",
+    "type": "消费金融",
+    "region": "全国",
+    "headquarters": "深圳",
+    "product_name": "招联信用付",
+    "category": "消费分期",
+    "rate": "5.4%-15%",
+    "min_amount": 500,
+    "max_amount": 50000,
+    "term": 24,
+    "approval_time": "当天",
+    "requirements": [
+      "招联活跃用户",
+      "征信良好"
+    ],
+    "tags": [
+      "分期购物",
+      "免息活动多"
+    ],
+    "commission": "3.0%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "马上消费金融",
+    "type": "消费金融",
+    "region": "全国",
+    "headquarters": "重庆",
+    "product_name": "安逸花",
+    "category": "信用贷",
+    "rate": "7.2%-24%",
+    "min_amount": 500,
+    "max_amount": 200000,
+    "term": 24,
+    "approval_time": "当天",
+    "requirements": [
+      "年龄18-60岁",
+      "有稳定收入",
+      "实名手机号"
+    ],
+    "tags": [
+      "门槛极低",
+      "放款快",
+      "循环额度"
+    ],
+    "commission": "2.8%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "马上消费金融",
+    "type": "消费金融",
+    "region": "全国",
+    "headquarters": "重庆",
+    "product_name": "马上贷",
+    "category": "消费贷",
+    "rate": "8%-18%",
+    "min_amount": 5000,
+    "max_amount": 50000,
+    "term": 12,
+    "approval_time": "当天",
+    "requirements": [
+      "年龄18-55岁",
+      "征信良好"
+    ],
+    "tags": [
+      "小额短期",
+      "快速到账"
+    ],
+    "commission": "3.0%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "捷信消费金融",
+    "type": "消费金融",
+    "region": "全国",
+    "headquarters": "深圳",
+    "product_name": "捷信福贷",
+    "category": "信用贷",
+    "rate": "8%-24%",
+    "min_amount": 3000,
+    "max_amount": 50000,
+    "term": 36,
+    "approval_time": "1-2天",
+    "requirements": [
+      "年龄18-60岁",
+      "有稳定收入",
+      "征信良好"
+    ],
+    "tags": [
+      "分期专业",
+      "线下门店多"
+    ],
+    "commission": "2.5%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "捷信消费金融",
+    "type": "消费金融",
+    "region": "全国",
+    "headquarters": "深圳",
+    "product_name": "捷信商品贷",
+    "category": "消费分期",
+    "rate": "6%-15%",
+    "min_amount": 1000,
+    "max_amount": 50000,
+    "term": 24,
+    "approval_time": "当天",
+    "requirements": [
+      "分期购物",
+      "身份证明"
+    ],
+    "tags": [
+      "购物分期",
+      "门店办理"
+    ],
+    "commission": "3.0%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "兴业消费金融",
+    "type": "消费金融",
+    "region": "全国",
+    "headquarters": "福建",
+    "product_name": "兴业消费贷",
+    "category": "信用贷",
+    "rate": "6%-12%",
+    "min_amount": 30000,
+    "max_amount": 200000,
+    "term": 36,
+    "approval_time": "1-3天",
+    "requirements": [
+      "年龄18-65岁",
+      "有稳定收入",
+      "征信良好"
+    ],
+    "tags": [
+      "利率较低",
+      "银行背景",
+      "审批规范"
+    ],
+    "commission": "2.0%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "兴业消费金融",
+    "type": "消费金融",
+    "region": "全国",
+    "headquarters": "福建",
+    "product_name": "兴业家庭消费贷",
+    "category": "消费贷",
+    "rate": "5.8%-11.5%",
+    "min_amount": 100000,
+    "max_amount": 500000,
+    "term": 60,
+    "approval_time": "3-5天",
+    "requirements": [
+      "有房产/社保/公积金",
+      "收入证明"
+    ],
+    "tags": [
+      "高额度",
+      "期限长",
+      "家庭用途"
+    ],
+    "commission": "1.8%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "北银消费金融",
+    "type": "消费金融",
+    "region": "全国",
+    "headquarters": "北京",
+    "product_name": "北银消费贷",
+    "category": "信用贷",
+    "rate": "6%-12%",
+    "min_amount": 10000,
+    "max_amount": 100000,
+    "term": 36,
+    "approval_time": "1-2天",
+    "requirements": [
+      "年龄18-60岁",
+      "有稳定收入",
+      "征信良好"
+    ],
+    "tags": [
+      "银行背景",
+      "审批快"
+    ],
+    "commission": "2.0%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "海尔消费金融",
+    "type": "消费金融",
+    "region": "全国",
+    "headquarters": "青岛",
+    "product_name": "海尔消费贷",
+    "category": "信用贷",
+    "rate": "7.2%-15%",
+    "min_amount": 5000,
+    "max_amount": 200000,
+    "term": 36,
+    "approval_time": "1-2天",
+    "requirements": [
+      "年龄18-60岁",
+      "有稳定收入",
+      "征信良好"
+    ],
+    "tags": [
+      "海尔生态",
+      "家电分期"
+    ],
+    "commission": "2.3%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "海尔消费金融",
+    "type": "消费金融",
+    "region": "全国",
+    "headquarters": "青岛",
+    "product_name": "海尔零钱花",
+    "category": "消费分期",
+    "rate": "5.4%-12%",
+    "min_amount": 500,
+    "max_amount": 50000,
+    "term": 24,
+    "approval_time": "当天",
+    "requirements": [
+      "海尔会员",
+      "征信良好"
+    ],
+    "tags": [
+      "免息分期",
+      "海尔商城"
+    ],
+    "commission": "2.5%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "美的消费金融",
+    "type": "消费金融",
+    "region": "全国",
+    "headquarters": "佛山",
+    "product_name": "美的消费贷",
+    "category": "信用贷",
+    "rate": "6.5%-14%",
+    "min_amount": 10000,
+    "max_amount": 200000,
+    "term": 36,
+    "approval_time": "1-2天",
+    "requirements": [
+      "年龄18-60岁",
+      "有稳定收入",
+      "征信良好"
+    ],
+    "tags": [
+      "美的生态",
+      "家电分期"
+    ],
+    "commission": "2.2%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "苏宁消费金融",
+    "type": "消费金融",
+    "region": "全国",
+    "headquarters": "南京",
+    "product_name": "苏宁消费贷",
+    "category": "信用贷",
+    "rate": "6%-15%",
+    "min_amount": 5000,
+    "max_amount": 200000,
+    "term": 36,
+    "approval_time": "1-2天",
+    "requirements": [
+      "年龄18-60岁",
+      "有稳定收入",
+      "征信良好"
+    ],
+    "tags": [
+      "苏宁生态",
+      "购物分期",
+      "免息活动"
+    ],
+    "commission": "2.2%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "苏宁消费金融",
+    "type": "消费金融",
+    "region": "全国",
+    "headquarters": "南京",
+    "product_name": "苏宁任性付",
+    "category": "消费分期",
+    "rate": "5.4%-12%",
+    "min_amount": 300,
+    "max_amount": 50000,
+    "term": 24,
+    "approval_time": "当天",
+    "requirements": [
+      "苏宁会员",
+      "实名认证"
+    ],
+    "tags": [
+      "免息分期",
+      "苏宁购物"
+    ],
+    "commission": "2.5%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "滴滴金融",
+    "type": "互联网金融",
+    "region": "全国",
+    "headquarters": "北京",
+    "product_name": "滴水贷",
+    "category": "信用贷",
+    "rate": "7.2%-18%",
+    "min_amount": 500,
+    "max_amount": 200000,
+    "term": 36,
+    "approval_time": "当天",
+    "requirements": [
+      "滴滴活跃用户",
+      "征信良好",
+      "年龄22-55岁"
+    ],
+    "tags": [
+      "滴滴生态",
+      "门槛低",
+      "放款快"
+    ],
+    "commission": "2.5%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "360金融",
+    "type": "互联网金融",
+    "region": "全国",
+    "headquarters": "北京",
+    "product_name": "360借条",
+    "category": "信用贷",
+    "rate": "7.2%-24%",
+    "min_amount": 500,
+    "max_amount": 200000,
+    "term": 24,
+    "approval_time": "当天",
+    "requirements": [
+      "年龄18-55岁",
+      "征信良好",
+      "实名认证"
+    ],
+    "tags": [
+      "360生态",
+      "门槛极低",
+      "放款快"
+    ],
+    "commission": "2.8%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "百度金融",
+    "type": "互联网金融",
+    "region": "全国",
+    "headquarters": "北京",
+    "product_name": "百度有钱花",
+    "category": "信用贷",
+    "rate": "7.2%-18%",
+    "min_amount": 500,
+    "max_amount": 300000,
+    "term": 36,
+    "approval_time": "当天",
+    "requirements": [
+      "年龄18-55岁",
+      "征信良好",
+      "百度活跃用户"
+    ],
+    "tags": [
+      "百度生态",
+      "门槛低",
+      "额度高"
+    ],
+    "commission": "2.5%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "京东金融",
+    "type": "互联网金融",
+    "region": "全国",
+    "headquarters": "北京",
+    "product_name": "京东金条",
+    "category": "信用贷",
+    "rate": "5.4%-18%",
+    "min_amount": 500,
+    "max_amount": 200000,
+    "term": 36,
+    "approval_time": "当天",
+    "requirements": [
+      "京东活跃用户",
+      "征信良好",
+      "小白信用600+"
+    ],
+    "tags": [
+      "京东生态",
+      "放款快",
+      "循环额度"
+    ],
+    "commission": "2.3%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "京东金融",
+    "type": "互联网金融",
+    "region": "全国",
+    "headquarters": "北京",
+    "product_name": "京东白条",
+    "category": "消费分期",
+    "rate": "5.4%-15%",
+    "min_amount": 300,
+    "max_amount": 50000,
+    "term": 24,
+    "approval_time": "当天",
+    "requirements": [
+      "京东会员",
+      "实名认证"
+    ],
+    "tags": [
+      "免息分期",
+      "京东购物"
+    ],
+    "commission": "2.5%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "支付宝金融",
+    "type": "互联网金融",
+    "region": "全国",
+    "headquarters": "杭州",
+    "product_name": "蚂蚁借呗",
+    "category": "信用贷",
+    "rate": "5.4%-14.6%",
+    "min_amount": 500,
+    "max_amount": 300000,
+    "term": 12,
+    "approval_time": "当天",
+    "requirements": [
+      "支付宝活跃用户",
+      "芝麻分600+",
+      "征信良好"
+    ],
+    "tags": [
+      "支付宝生态",
+      "放款快",
+      "随借随还"
+    ],
+    "commission": "2.0%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  },
+  {
+    "company": "支付宝金融",
+    "type": "互联网金融",
+    "region": "全国",
+    "headquarters": "杭州",
+    "product_name": "花呗",
+    "category": "消费分期",
+    "rate": "5.4%-15%",
+    "min_amount": 300,
+    "max_amount": 50000,
+    "term": 12,
+    "approval_time": "当天",
+    "requirements": [
+      "支付宝活跃用户",
+      "芝麻分550+"
+    ],
+    "tags": [
+      "免息分期",
+      "支付宝购物"
+    ],
+    "commission": "2.0%",
+    "status": "在推",
+    "source": "消费金融公司",
+    "update_time": "2026-01-31"
+  }
+]

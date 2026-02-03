@@ -1,0 +1,94 @@
+[
+  {
+    "bank": "工商银行",
+    "productName": "融e借",
+    "type": "信用贷",
+    "rate": "3.65%",
+    "minAmount": 50000,
+    "maxAmount": 3000000,
+    "term": 36,
+    "approvalTime": "1-3天",
+    "requirements": [
+      "年龄18-60岁",
+      "公积金/社保/房贷用户",
+      "征信良好无逾期"
+    ],
+    "tags": [
+      "低利率",
+      "高额度",
+      "审批快"
+    ],
+    "commission": "1.5%",
+    "status": "在推",
+    "source": "银行官网",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "bank": "建设银行",
+    "productName": "快贷",
+    "type": "信用贷",
+    "rate": "3.85%",
+    "minAmount": 10000,
+    "maxAmount": 200000,
+    "term": 36,
+    "approvalTime": "1-2天",
+    "requirements": [
+      "建行存量客户",
+      "公积金用户",
+      "代发工资客户"
+    ],
+    "tags": [
+      "门槛低",
+      "审批快",
+      "额度灵活"
+    ],
+    "commission": "1.2%",
+    "status": "在推",
+    "source": "银行官网",
+    "updateTime": "2026-01-30"
+  },
+  {
+    "bank": "招商银行",
+    "productName": "闪电贷",
+    "rate": "4.2%",
+    "minAmount": 20000,
+    "maxAmount": 300000,
+    "term": 36,
+    "approvalTime": "当天",
+    "tags": [
+      "最快当天",
+      "额度灵活"
+    ],
+    "commission": "1.8%",
+    "type": "信用贷",
+    "status": "在推",
+    "source": "融360",
+    "updateTime": "2026-01-30",
+    "requirements": [
+      "征信良好",
+      "有稳定收入"
+    ]
+  },
+  {
+    "bank": "平安银行",
+    "productName": "新一贷",
+    "rate": "6.0%",
+    "minAmount": 50000,
+    "maxAmount": 500000,
+    "term": 36,
+    "approvalTime": "2-3天",
+    "tags": [
+      "高额度",
+      "门槛相对低"
+    ],
+    "commission": "2.0%",
+    "type": "信用贷",
+    "status": "在推",
+    "source": "融360",
+    "updateTime": "2026-01-30",
+    "requirements": [
+      "征信良好",
+      "有稳定收入"
+    ]
+  }
+]

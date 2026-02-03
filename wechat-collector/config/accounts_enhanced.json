@@ -1,0 +1,327 @@
+{
+  "version": "2.0",
+  "description": "增强版微信公众号配置",
+  "last_updated": "2026-01-31",
+  "settings": {
+    "check_interval_hours": 6,
+    "notify_on_change": true,
+    "auto_sync_to_product_library": true,
+    "rate_limit_protection": true
+  },
+  "accounts": [
+    {
+      "name": "武汉贷款通",
+      "biz": "wuhan_daikuan_tong",
+      "type": "产品推荐",
+      "focus": [
+        "公积金贷",
+        "装修贷",
+        "经营贷"
+      ],
+      "region": "武汉",
+      "priority": "high",
+      "monitor_keywords": [
+        "利率",
+        "额度",
+        "审批",
+        "条件",
+        "佣金"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "汉口贷款助手",
+      "biz": "hankou_daikuan",
+      "type": "产品评测",
+      "focus": [
+        "信用贷",
+        "抵押贷",
+        "车贷"
+      ],
+      "region": "武汉（汉口）",
+      "priority": "high",
+      "monitor_keywords": [
+        "测评",
+        "真实案例",
+        "通过率",
+        "避坑"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "湖北金融通",
+      "biz": "hubei_finance",
+      "type": "政策解读",
+      "focus": [
+        "政策贷",
+        "创业贷",
+        "小微贷"
+      ],
+      "region": "湖北",
+      "priority": "medium",
+      "monitor_keywords": [
+        "政策",
+        "利率调整",
+        "新规",
+        "补贴"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "光谷贷款指南",
+      "biz": "guanggu_daikuan",
+      "type": "产品推荐",
+      "focus": [
+        "公积金贷",
+        "信用贷",
+        "科技贷"
+      ],
+      "region": "武汉（光谷）",
+      "priority": "medium",
+      "monitor_keywords": [
+        "科技企业",
+        "光谷",
+        "创业",
+        "高新"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "武汉房抵专家",
+      "biz": "wuhan_fangdi",
+      "type": "抵押贷款",
+      "focus": [
+        "房产抵押",
+        "经营抵押"
+      ],
+      "region": "武汉",
+      "priority": "high",
+      "monitor_keywords": [
+        "房产抵押",
+        "利率",
+        "额度",
+        "流程"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "汉口银行微服务",
+      "biz": "hankou_bank",
+      "type": "银行官方",
+      "focus": [
+        "本地银行产品",
+        "市民贷"
+      ],
+      "region": "武汉",
+      "priority": "high",
+      "monitor_keywords": [
+        "官方",
+        "产品上线",
+        "利率公告"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "湖北银行微银行",
+      "biz": "hubei_bank",
+      "type": "银行官方",
+      "focus": [
+        "本地银行产品",
+        "荆楚贷"
+      ],
+      "region": "湖北",
+      "priority": "high",
+      "monitor_keywords": [
+        "官方",
+        "新产品",
+        "活动"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "公积金查询武汉",
+      "biz": "gongjijin_wuhan",
+      "type": "公积金资讯",
+      "focus": [
+        "公积金贷款",
+        "公积金政策"
+      ],
+      "region": "武汉",
+      "priority": "high",
+      "monitor_keywords": [
+        "公积金贷款",
+        "提取",
+        "额度计算",
+        "条件"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "武汉信贷联盟",
+      "biz": "wuhan_xindai",
+      "type": "行业资讯",
+      "focus": [
+        "信贷市场",
+        "行业动态",
+        "佣金政策"
+      ],
+      "region": "武汉",
+      "priority": "medium",
+      "monitor_keywords": [
+        "市场动态",
+        "佣金",
+        "同行交流"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "贷款中介联盟",
+      "biz": "daikuan_alian",
+      "type": "行业资讯",
+      "focus": [
+        "中介技巧",
+        "客户获取",
+        "成单率"
+      ],
+      "region": "全国",
+      "priority": "medium",
+      "monitor_keywords": [
+        "获客技巧",
+        "成单",
+        "案例分享"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "银行产品大全",
+      "biz": "bank_products",
+      "type": "产品聚合",
+      "focus": [
+        "各银行产品",
+        "利率对比",
+        "产品汇总"
+      ],
+      "region": "全国",
+      "priority": "high",
+      "monitor_keywords": [
+        "产品汇总",
+        "利率对比",
+        "最新产品"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "武汉房贷通",
+      "biz": "wuhan_fangdai",
+      "type": "房贷专项",
+      "focus": [
+        "房贷",
+        "二手房贷",
+        "转贷"
+      ],
+      "region": "武汉",
+      "priority": "high",
+      "monitor_keywords": [
+        "房贷",
+        "二手房",
+        "利率下调",
+        "转贷"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "企业贷助手",
+      "biz": "qiye_dai",
+      "type": "企业贷款",
+      "focus": [
+        "企业贷",
+        "经营贷",
+        "税贷"
+      ],
+      "region": "武汉",
+      "priority": "medium",
+      "monitor_keywords": [
+        "企业贷款",
+        "税贷",
+        "经营贷",
+        "流水贷"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "征信修复指南",
+      "biz": "zhengxin_xiufu",
+      "type": "征信服务",
+      "focus": [
+        "征信修复",
+        "逾期处理",
+        "异议申请"
+      ],
+      "region": "全国",
+      "priority": "low",
+      "monitor_keywords": [
+        "征信修复",
+        "逾期",
+        "黑名单",
+        "异议"
+      ],
+      "enabled": true
+    }
+  ],
+  "keywords": [
+    "贷款",
+    "信用贷",
+    "抵押贷",
+    "公积金贷",
+    "装修贷",
+    "经营贷",
+    "车贷",
+    "房贷",
+    "税贷",
+    "社保贷",
+    "利率",
+    "利息",
+    "年化",
+    "月息",
+    "日息",
+    "额度",
+    "最高",
+    "最低",
+    "可贷",
+    "批款",
+    "条件",
+    "要求",
+    "资格",
+    "审批",
+    "通过率",
+    "佣金",
+    "返点",
+    "提成",
+    "费用",
+    "新产品",
+    "新政策",
+    "利率调整",
+    "限时",
+    "活动"
+  ],
+  "extraction_patterns": {
+    "rate_patterns": [
+      "(\\d+\\.?\\d*)%",
+      "利率[：:]*(\\d+\\.?\\d*)%",
+      "年化(\\d+\\.?\\d*)%",
+      "月息(\\d+\\.?\\d*)%"
+    ],
+    "amount_patterns": [
+      "(\\d+[万千万])",
+      "额度[：:]*(\\d+[万千万])",
+      "最高(\\d+[万千万])",
+      "(\\d+)-(\\d+)[万千万]"
+    ],
+    "bank_patterns": [
+      "([^\\s贷款产品]+银行)",
+      "([^\\s]+银行)[^\\d]",
+      "([^\\s]+贷)",
+      "([^\\s]+借款)"
+    ]
+  }
+}
